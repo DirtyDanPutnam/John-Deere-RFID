@@ -9,9 +9,10 @@ public class PingData {
     private String coordinates;
     private String location;
     private int lastPing;
+    private int lastTimeUTC;
 
     public PingData(String epc, String logicalDevice, String baseLogicalDevice, int antenna,
-        double rssi, int timeUTC, String coordinates, String location, int lastPing){
+        double rssi, int timeUTC, String coordinates, String location, int lastPing, int lastTimeUTC){
 
             this.epc = epc;
             this.logicalDevice = logicalDevice;
@@ -22,6 +23,7 @@ public class PingData {
             this.coordinates = coordinates;
             this.location = location;
             this.lastPing = lastPing;
+            this.lastTimeUTC = lastTimeUTC;
 
     }
 
