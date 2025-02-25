@@ -1,0 +1,77 @@
+{
+    "site": "RX01",
+    "tags": [
+        {
+            "epc": "A1A1DDDE0000000000AD9A68",
+            "logicalDevice": "RFG_TCAO_6030_E5920_N5460_EAST",
+            "baseLogicalDevice": "RFG_TCAO_6030_E5920_N5460",
+            "antenna": 13,
+            "rssi": -70.0,
+            "timeUTC": 1731078325118,
+            "coordinates": "42.523696,-92.271043"
+        },
+        {
+            "epc": "A1A1DDDE0000000000A689CB",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_SOUTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 3,
+            "rssi": -66.0,
+            "timeUTC": 1731078325715,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE0000000000B57FF8",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_NORTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 2,
+            "rssi": -67.5,
+            "timeUTC": 1731078325145,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE0000000000AF01F9",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_NORTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 6,
+            "rssi": -66.5,
+            "timeUTC": 1731078325423,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE0000000000AAD5B9",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_SOUTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 3,
+            "rssi": -68.5,
+            "timeUTC": 1731078325715,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE0000000000A794BD",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_NORTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 2,
+            "rssi": -67.0,
+            "timeUTC": 1731078325238,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE0000000000B59296",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_SOUTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 7,
+            "rssi": -65.5,
+            "timeUTC": 1731078325523,
+            "coordinates": "42.510533,-92.285572"
+        },
+        {
+            "epc": "A1A1DDDE00000000012BA0E0",
+            "logicalDevice": "WATERLOO_RYDER_X_W025_NORTH",
+            "baseLogicalDevice": "WATERLOO_RYDER_X_W025",
+            "antenna": 6,
+            "rssi": -67.5,
+            "timeUTC": 1731078325423,
+            "coordinates": "42.510533,-92.285572"
+        }
+    ]
+}
