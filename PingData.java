@@ -7,12 +7,12 @@ public class PingData {
     private double rssi;
     private int timeUTC;
     private String coordinates;
-    private String location;
-    private int lastPing;
-    private int lastTimeUTC;
+    //private String location;
+    //private int lastPing;
+    //private int lastTimeUTC;
 
     public PingData(String epc, String logicalDevice, String baseLogicalDevice, int antenna,
-        double rssi, int timeUTC, String coordinates, String location, int lastPing, int lastTimeUTC){
+        double rssi, int timeUTC, String coordinates){
 
             this.epc = epc;
             this.logicalDevice = logicalDevice;
@@ -21,10 +21,10 @@ public class PingData {
             this.rssi = rssi;
             this.timeUTC = timeUTC;
             this.coordinates = coordinates;
-            this.location = location;
-            this.lastPing = lastPing;
-            this.lastTimeUTC = lastTimeUTC;
+            //this.location = location;
+            //this.lastPing = lastPing;
+            //this.lastTimeUTC = lastTimeUTC;
 
     }
-
+    
 }
